@@ -20,7 +20,7 @@
 5. [x] Lesson 5
 6. [x] Lesson 6
 7. [x] Lesson 7
-8. [ ] Lesson 8
+8. [x] Lesson 8
 9. [ ] Lesson 9
 10. [ ] Lesson 10
 11. [ ] Lesson 11
