@@ -1,5 +1,14 @@
 # DevOps Course Bootcamp 💻
 
+### Technologies Covered
+1. [x] Git
+2. [ ] Docker
+3. [ ] K8s
+4. [ ] Jenkins
+5. [ ] Terraform
+6. [ ] Ansible
+7. [ ] Prometheus
+
 ### Progress Tracker
 
 1. [x] Lesson 1
