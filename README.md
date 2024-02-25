@@ -1,5 +1,7 @@
 # DevOps Course Bootcamp 💻
 
+#### This repository follows my journey to learning and mastering the concepts and technologies of DevOps.
+
 ### Technologies Covered 👨🏽‍💻
 1. [x] Git
 2. [ ] Docker
