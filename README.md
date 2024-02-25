@@ -2,13 +2,13 @@
 
 ### Progress Tracker
 
-1. [ ] Lesson 1
-2. [ ] Lesson 2
-3. [ ] Lesson 3
-4. [ ] Lesson 4
-5. [ ] Lesson 5
-6. [ ] Lesson 6
-7. [ ] Lesson 7
+1. [x] Lesson 1
+2. [x] Lesson 2
+3. [x] Lesson 3
+4. [x] Lesson 4
+5. [x] Lesson 5
+6. [x] Lesson 6
+7. [x] Lesson 7
 8. [ ] Lesson 8
 9. [ ] Lesson 9
 10. [ ] Lesson 10
