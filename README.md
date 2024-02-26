@@ -11,7 +11,7 @@
 6. [ ] Ansible
 7. [ ] Prometheus
 
-### Progress Tracker 📟
+### Progression Tracker 📟
 
 1. [x] Lesson 1
 2. [x] Lesson 2
