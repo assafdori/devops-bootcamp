@@ -24,8 +24,8 @@
 9. [x] Lesson 9
 10. [x] Lesson 10
 11. [x] Lesson 11
-12. [ ] Lesson 12
-13. [ ] Lesson 13
+12. [x] Lesson 12
+13. [x] Lesson 13
 14. [ ] Lesson 14
 15. [ ] Lesson 15
 16. [ ] Lesson 16
