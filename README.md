@@ -17,6 +17,12 @@
 - ⭐ = Valuable
 - 📉 = Git
 - 🗂️ = Databases
+- 🐋 = Docker
+- 👨🏽‍🍳 = Jenkins
+- 🎡 = K8s
+- 🏗️ = Terraform
+- 💾 = Ansible
+- 📜 = Prometheus
 
 1. [x] Lesson 1 📉
 2. [x] Lesson 2 📉
