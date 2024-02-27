@@ -1,4 +1,4 @@
-# DevOps Bootcamp Cheatsheet
+# DevOps Bootcamp Cheatsheet 📓
 
 #### Cheatsheet for the DevOps Bootcamp, organized by topics & technologies.
 
