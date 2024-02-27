@@ -13,25 +13,28 @@
 
 ### Progression Tracker 📟
 
-1. [x] Lesson 1
-2. [x] Lesson 2
-3. [x] Lesson 3
-4. [x] Lesson 4
-5. [x] Lesson 5
-6. [x] Lesson 6
-7. [x] Lesson 7
-8. [x] Lesson 8
-9. [x] Lesson 9
-10. [x] Lesson 10
-11. [x] Lesson 11
-12. [x] Lesson 12
-13. [x] Lesson 13
-14. [x] Lesson 14
-15. [x] Lesson 15
-16. [x] Lesson 16
-17. [x] Lesson 17
-18. [x] Lesson 18
-19. [x] Lesson 19 ⭐
+⭐ = Valuable Lesson
+📉 = Git Lesson
+
+1. [x] Lesson 1 📉
+2. [x] Lesson 2 📉
+3. [x] Lesson 3 📉
+4. [x] Lesson 4 📉
+5. [x] Lesson 5 📉
+6. [x] Lesson 6 📉
+7. [x] Lesson 7 📉
+8. [x] Lesson 8 📉
+9. [x] Lesson 9 📉
+10. [x] Lesson 10 📉
+11. [x] Lesson 11 📉
+12. [x] Lesson 12 📉
+13. [x] Lesson 13 📉
+14. [x] Lesson 14 📉
+15. [x] Lesson 15 📉
+16. [x] Lesson 16 📉
+17. [x] Lesson 17 📉
+18. [x] Lesson 18 📉
+19. [x] Lesson 19 📉⭐
 20. [ ] Lesson 20
 21. [ ] Lesson 21
 22. [ ] Lesson 22
