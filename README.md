@@ -29,9 +29,9 @@
 14. [x] Lesson 14
 15. [x] Lesson 15
 16. [x] Lesson 16
-17. [ ] Lesson 17
-18. [ ] Lesson 18
-19. [ ] Lesson 19
+17. [x] Lesson 17
+18. [x] Lesson 18
+19. [x] Lesson 19 ⭐
 20. [ ] Lesson 20
 21. [ ] Lesson 21
 22. [ ] Lesson 22
