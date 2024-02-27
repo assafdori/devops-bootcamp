@@ -3,27 +3,16 @@
 #### This repository tracks my journey learning and mastering the concepts and technologies of DevOps and Site Reliability Engineering. 
 
 ### Technologies Covered 👨🏽‍💻
-1. [x] Git
-2. [ ] Docker
-3. [ ] K8s
-4. [ ] Jenkins
-5. [ ] Terraform
-6. [ ] Ansible
-7. [ ] Prometheus
-8. [x] Databases
+1. [x] Git 📉
+2. [ ] Docker 🐋
+3. [ ] K8s 🎡
+4. [ ] Jenkins 👨🏽‍🍳
+5. [ ] Terraform 🏗️
+6. [ ] Ansible 💾
+7. [ ] Prometheus 📜
+8. [x] Databases 🗂️
 
 ### Progression Tracker 📟
-
-- ⭐ = Valuable
-- 📉 = Git
-- 🗂️ = Databases
-- 🐋 = Docker
-- 👨🏽‍🍳 = Jenkins
-- 🎡 = K8s
-- 🏗️ = Terraform
-- 💾 = Ansible
-- 📜 = Prometheus
-
 1. [x] Lesson 1 📉
 2. [x] Lesson 2 📉
 3. [x] Lesson 3 📉
