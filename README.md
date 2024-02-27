@@ -1,6 +1,6 @@
 # DevOps Course Bootcamp 💻
 
-#### This repository follows my journey to learning and mastering the concepts and technologies of DevOps
+#### This repository tracks my journey learning and mastering the concepts and technologies of DevOps and Site Reliability Engineering. 
 
 ### Technologies Covered 👨🏽‍💻
 1. [x] Git
