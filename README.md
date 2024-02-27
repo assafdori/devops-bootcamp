@@ -32,8 +32,8 @@
 17. [x] Lesson 17 📉
 18. [x] Lesson 18 📉
 19. [x] Lesson 19 📉⭐
-20. [ ] Lesson 20 🗂️
-21. [ ] Lesson 21
+20. [x] Lesson 20 🗂️
+21. [x] Lesson 21 🗂️
 22. [ ] Lesson 22
 23. [ ] Lesson 23
 24. [ ] Lesson 24
