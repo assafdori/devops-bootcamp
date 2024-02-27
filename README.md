@@ -10,6 +10,7 @@
 5. [ ] Terraform
 6. [ ] Ansible
 7. [ ] Prometheus
+8. [x] Databases
 
 ### Progression Tracker 📟
 
