@@ -13,8 +13,8 @@
 
 ### Progression Tracker 📟
 
-⭐ = Valuable Lesson
-📉 = Git Lesson
+- ⭐ = Valuable Lesson
+- 📉 = Git Lesson
 
 1. [x] Lesson 1 📉
 2. [x] Lesson 2 📉
