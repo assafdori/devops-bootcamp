@@ -12,7 +12,7 @@
 7. [ ] [Prometheus 📜](link)
 8. [x] [Databases 🗂️](link)
 9. [ ] [Cloud Computing ☁️](link)
-10.[ ] [Misc 🧰](link)
+10. [ ] [Misc 🧰](link)
 
 ### Progression Tracker 📟
 1. [x] Lesson 1 📉
