@@ -34,16 +34,16 @@
 19. [x] Lesson 19 📉⭐
 20. [x] Lesson 20 🗂️
 21. [x] Lesson 21 🗂️
-22. [ ] Lesson 22
-23. [ ] Lesson 23
-24. [ ] Lesson 24
-25. [ ] Lesson 25
-26. [ ] Lesson 26
-27. [ ] Lesson 27
-28. [ ] Lesson 28
-29. [ ] Lesson 29
-30. [ ] Lesson 30
-31. [ ] Lesson 31
+22. [x] Lesson 22
+23. [x] Lesson 23
+24. [x] Lesson 24
+25. [x] Lesson 25
+26. [x] Lesson 26
+27. [x] Lesson 27
+28. [x] Lesson 28
+29. [x] Lesson 29
+30. [x] Lesson 30
+31. [x] Lesson 31 🐋
 32. [ ] Lesson 32
 33. [ ] Lesson 33
 34. [ ] Lesson 34
