@@ -11,7 +11,8 @@
 6. [ ] [Ansible 💾](link)
 7. [ ] [Prometheus 📜](link)
 8. [x] [Databases 🗂️](link)
-9. [ ] [Misc 🧰](link)
+9. [ ] [Cloud Computing ☁️](link)
+10.[ ] [Misc 🧰](link)
 
 ### Progression Tracker 📟
 1. [x] Lesson 1 📉
@@ -45,8 +46,8 @@
 29. [x] Lesson 29 🧰
 30. [x] Lesson 30 🧰
 31. [x] Lesson 31 🐋
-32. [ ] Lesson 32
-33. [ ] Lesson 33
+32. [x] Lesson 32 🐋
+33. [x] Lesson 33 ☁️
 34. [ ] Lesson 34
 35. [ ] Lesson 35
 36. [ ] Lesson 36
