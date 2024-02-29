@@ -49,7 +49,7 @@
 32. [x] Lesson 32 🐋
 33. [x] Lesson 33 ☁️
 34. [x] Lesson 34 ☁️
-35. [ ] Lesson 35
+35. [ ] Lesson 35 ☁️
 36. [ ] Lesson 36
 37. [ ] Lesson 37
 38. [ ] Lesson 38
