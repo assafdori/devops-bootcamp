@@ -2,7 +2,7 @@
 
 #### Cheatsheet for the DevOps Bootcamp, organized by topics & technologies.
 
-### This section is work in progress.
+#### This section is work in progress.
 
 [Git 📉](link)  
 [Docker 🐋](link)  
