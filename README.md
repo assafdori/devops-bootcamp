@@ -4,7 +4,7 @@
 
 ### Technologies Covered 👨🏽‍💻
 1. [x] [Git 📉](link)
-2. [ ] [Docker 🐋](link)
+2. [x] [Docker 🐋](link)
 3. [ ] [K8s 🎡](link)
 4. [ ] [Jenkins 👨🏽‍🍳](link)
 5. [ ] [Terraform 🏗️](link)
