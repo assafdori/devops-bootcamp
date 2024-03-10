@@ -75,11 +75,11 @@
 58. [x] Lesson 58 🐋
 59. [x] Lesson 59 🐋
 60. [x] Lesson 60 🐋
-61. [ ] Lesson 61
-62. [ ] Lesson 62
-63. [ ] Lesson 63
-64. [ ] Lesson 64
-65. [ ] Lesson 65
+61. [x] Lesson 61 🐋
+62. [x] Lesson 62 🐋
+63. [x] Lesson 63 🐋
+64. [x] Lesson 64 🐋
+65. [x] Lesson 65 🐋
 66. [ ] Lesson 66
 67. [ ] Lesson 67
 68. [ ] Lesson 68
