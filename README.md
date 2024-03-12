@@ -6,13 +6,13 @@
 1. [x] [Git 📉](link)
 2. [x] [Docker 🐋](link)
 3. [ ] [K8s 🎡](link)
-4. [ ] [Jenkins 👨🏽‍🍳](link)
+4. [x] [Jenkins 👨🏽‍🍳](link)
 5. [ ] [Terraform 🏗️](link)
 6. [ ] [Ansible 💾](link)
 7. [ ] [Prometheus 📜](link)
 8. [x] [Databases 🗂️](link)
 9. [ ] [Cloud Computing ☁️](link)
-10. [ ] [Misc 🧰](link)
+10. [x] [Misc 🧰](link)
 
 ### Progression Tracker 📟
 1. [x] Lesson 1 📉
@@ -80,7 +80,7 @@
 63. [x] Lesson 63 🐋
 64. [x] Lesson 64 🐋
 65. [x] Lesson 65 🐋
-66. [ ] Lesson 66
+66. [x] Lesson 66 👨
 67. [ ] Lesson 67
 68. [ ] Lesson 68
 69. [ ] Lesson 69
