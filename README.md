@@ -84,7 +84,7 @@
 67. [x] Lesson 67 👨
 68. [x] Lesson 68 👨
 69. [x] Lesson 69 👨
-70. [ ] Lesson 70
+70. [x] Lesson 70 👨
 71. [ ] Lesson 71
 72. [ ] Lesson 72
 73. [ ] Lesson 73
