@@ -81,9 +81,9 @@
 64. [x] Lesson 64 🐋
 65. [x] Lesson 65 🐋
 66. [x] Lesson 66 👨
-67. [ ] Lesson 67
-68. [ ] Lesson 68
-69. [ ] Lesson 69
+67. [x] Lesson 67 👨
+68. [x] Lesson 68 👨
+69. [x] Lesson 69 👨
 70. [ ] Lesson 70
 71. [ ] Lesson 71
 72. [ ] Lesson 72
