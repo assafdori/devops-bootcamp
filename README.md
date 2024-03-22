@@ -85,10 +85,10 @@
 68. [x] Lesson 68 👨
 69. [x] Lesson 69 👨
 70. [x] Lesson 70 👨
-71. [ ] Lesson 71 👨🐋
-72. [ ] Lesson 72
-73. [ ] Lesson 73
-74. [ ] Lesson 74
+71. [x] Lesson 71 👨🐋
+72. [x] Lesson 72 👨
+73. [x] Lesson 73 👨
+74. [x] Lesson 74 👨
 75. [ ] Lesson 75
 76. [ ] Lesson 76
 77. [ ] Lesson 77
