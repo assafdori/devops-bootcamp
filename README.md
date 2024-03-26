@@ -89,7 +89,7 @@
 72. [x] Lesson 72 👨
 73. [x] Lesson 73 👨
 74. [x] Lesson 74 👨
-75. [ ] Lesson 75
+75. [x] Lesson 75 👨
 76. [ ] Lesson 76
 77. [ ] Lesson 77
 78. [ ] Lesson 78
