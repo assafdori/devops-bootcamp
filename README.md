@@ -86,11 +86,11 @@
 69. [x] Lesson 69 👨
 70. [x] Lesson 70 👨
 71. [x] Lesson 71 👨🐋
-72. [x] Lesson 72 👨
+72. [x] Lesson 72 👨🐋
 73. [x] Lesson 73 👨
 74. [x] Lesson 74 👨
 75. [x] Lesson 75 👨
-76. [ ] Lesson 76
+76. [x] Lesson 76 👨
 77. [ ] Lesson 77
 78. [ ] Lesson 78
 79. [ ] Lesson 79
