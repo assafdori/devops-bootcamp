@@ -14,6 +14,11 @@
 9. [ ] [Cloud Computing ☁️](link)
 10. [x] [Misc 🧰](link)
 
+
+### Homework & Practice 📝
+1. [ ] Better learn Github Actions (lesson 80).
+1. [ ] Better learn Jenkins Shared Library (lesson 79).
+
 ### Progression Tracker 📟
 1. [x] Lesson 1 📉
 2. [x] Lesson 2 📉
