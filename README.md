@@ -94,7 +94,7 @@
 77. [x] Lesson 77 👨
 78. [x] Lesson 78 👨
 79. [x] Lesson 79 👨⭐
-80. [ ] Lesson 80
+80. [x] Lesson 80 👨⭐
 81. [ ] Lesson 81
 82. [ ] Lesson 82
 83. [ ] Lesson 83
