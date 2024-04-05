@@ -103,10 +103,10 @@
 80. [x] Lesson 80 👨⭐
 81. [ ] Lesson 81
 82. [ ] Lesson 82
-83. [x] Lesson 83 ☁️]
-84. [ ] Lesson 84 ☁️]
-85. [ ] Lesson 85
-86. [ ] Lesson 86
+83. [x] Lesson 83 ☁️
+84. [x] Lesson 84 ☁️
+85. [x] Lesson 85 ☁️
+86. [x] Lesson 86 ☁️
 87. [ ] Lesson 87
 88. [ ] Lesson 88
 89. [ ] Lesson 89
