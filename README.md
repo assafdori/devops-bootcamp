@@ -107,10 +107,10 @@
 84. [x] Lesson 84 ☁️
 85. [x] Lesson 85 ☁️
 86. [x] Lesson 86 ☁️
-87. [ ] Lesson 87
-88. [ ] Lesson 88
-89. [ ] Lesson 89
-90. [ ] Lesson 90
+87. [x] Lesson 87 ☁️
+88. [x] Lesson 88 ☁️
+89. [x] Lesson 89 ☁️
+90. [x] Lesson 90 ☁️
 91. [ ] Lesson 91
 92. [ ] Lesson 92
 93. [ ] Lesson 93
