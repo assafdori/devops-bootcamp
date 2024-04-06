@@ -22,6 +22,7 @@
 3. [ ] Set up an agent or node that will execute Docker pipelines, instead of using the main Jenkins node.
 4. [ ] Start learning Terraform.
 5. [ ] Implement AWS Secrets Manager instead of using Jenkins environment variables. 
+6. [ ] Exchange the applicaton base image to a distroless image.
 
 ### Progression Tracker 📟
 1. [x] Lesson 1 📉
