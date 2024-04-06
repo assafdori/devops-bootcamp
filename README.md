@@ -20,6 +20,8 @@
 1. [ ] Better learn Github Actions (lesson 80).
 2. [ ] Better learn Jenkins Shared Library (lesson 79).
 3. [ ] Set up an agent or node that will execute Docker pipelines, instead of using the main Jenkins node.
+4. [ ] Start learning Terraform.
+5. [ ] Implement AWS Secrets Manager instead of using Jenkins environment variables. 
 
 ### Progression Tracker 📟
 1. [x] Lesson 1 📉
