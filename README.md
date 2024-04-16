@@ -23,6 +23,7 @@
 4. [ ] Start learning Terraform.
 5. [ ] Implement AWS Secrets Manager instead of using Jenkins environment variables. 
 6. [ ] Exchange the applicaton base image to a distroless image.
+7. [ ] Monitoring (Prometheus, Alert Manager, Grafana)
 
 ### Progression Tracker 📟
 1. [x] Lesson 1 📉
