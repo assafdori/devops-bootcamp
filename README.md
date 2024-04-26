@@ -17,13 +17,13 @@
 
 
 ### Homework & Practice 📝
-1. [ ] Better learn Github Actions (lesson 80).
+1. [x] Better learn Github Actions (lesson 80).
 2. [ ] Better learn Jenkins Shared Library (lesson 79).
 3. [ ] Set up an agent or node that will execute Docker pipelines, instead of using the main Jenkins node.
-4. [ ] Start learning Terraform.
-5. [ ] Implement AWS Secrets Manager instead of using Jenkins environment variables. 
+4. [x] Start learning Terraform.
+5. [x] Implement AWS Secrets Manager instead of using Jenkins environment variables. 
 6. [ ] Exchange the applicaton base image to a distroless image.
-7. [ ] Monitoring (Prometheus > Node Exporter > Alert Manager, Grafana)
+7. [x] Monitoring (Prometheus > Node Exporter > Alert Manager, Grafana)
 
 ### Progression Tracker 📟
 1. [x] Lesson 1 📉
