@@ -117,7 +117,7 @@
 89. [x] Lesson 89 ☁️
 90. [x] Lesson 90 ☁️
 91. [x] Lesson 91 ☁️👨
-92. [x] Lesson 92
+92. [ ] Lesson 92
 93. [ ] Lesson 93
 94. [ ] Lesson 94
 95. [ ] Lesson 95
