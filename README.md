@@ -120,8 +120,8 @@
 92. [ ] Lesson 92
 93. [ ] Lesson 93
 94. [x] Lesson 94 ☁️
-95. [ ] Lesson 95
-96. [ ] Lesson 96
+95. [x] Lesson 95 ☁️
+96. [x] Lesson 96 ☁️ 
 97. [ ] Lesson 97
 98. [ ] Lesson 98
 99. [ ] Lesson 99
