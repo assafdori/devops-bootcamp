@@ -119,7 +119,7 @@
 91. [x] Lesson 91 ☁️👨
 92. [ ] Lesson 92
 93. [ ] Lesson 93
-94. [ ] Lesson 94
+94. [x] Lesson 94 ☁️
 95. [ ] Lesson 95
 96. [ ] Lesson 96
 97. [ ] Lesson 97
