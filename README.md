@@ -125,8 +125,8 @@
 97. [x] Lesson 97 🎡 
 98. [x] Lesson 98 🎡
 99. [x] Lesson 99 🎡⭐
-100. [ ] Lesson 100
-101. [ ] Lesson 101
+100. [x] Lesson 100 🎡
+101. [x] Lesson 101 🎡 
 102. [ ] Lesson 102
 103. [ ] Lesson 103
 104. [ ] Lesson 104
