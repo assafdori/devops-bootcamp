@@ -121,8 +121,8 @@
 93. [ ] Lesson 93 ☁️👨
 94. [x] Lesson 94 ☁️
 95. [x] Lesson 95 ☁️
-96. [x] Lesson 96 ☁️ 
-97. [x] Lesson 97 🎡 
+96. [x] Lesson 96 ☁️
+97. [x] Lesson 97 🎡
 98. [x] Lesson 98 🎡
 99. [x] Lesson 99 🎡⭐
 100. [x] Lesson 100 🎡
