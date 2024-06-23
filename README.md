@@ -131,9 +131,9 @@
 103. [x] Lesson 103 🎡
 104. [x] Lesson 104 🎡
 105. [x] Lesson 105 🎡⭐
-106. [x] Lesson 106 🎡
-107. [ ] Lesson 107
-108. [ ] Lesson 108
+106. [x] Lesson 106 🎡⭐
+107. [x] Lesson 107 🎡⭐
+108. [x] Lesson 108 🎡
 109. [ ] Lesson 109
 110. [ ] Lesson 110
 111. [ ] Lesson 111
