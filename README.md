@@ -6,7 +6,7 @@
 1. [x] [Git 📉](link)
 2. [x] [Docker 🐋](link)
 3. [x] [Docker Compose 🐋](link)
-4. [ ] [K8s 🎡](link)
+4. [x] [K8s 🎡](link)
 5. [x] [Jenkins 👨🏽‍🍳](link)
 6. [ ] [Terraform 🏗️](link)
 7. [ ] [Ansible 💾](link)
@@ -14,6 +14,7 @@
 9. [x] [Databases 🗂️](link)
 10. [ ] [Cloud Computing ☁️](link)
 11. [x] [Misc 🧰](link)
+12. [x] [Helm 💻](link)
 
 
 ### Homework & Practice 📝
@@ -137,7 +138,7 @@
 109. [x] Lesson 109 🎡
 110. [x] Lesson 110 🎡    
 111. [x] Lesson 111 🎡
-112. [ ] Lesson 112
+112. [x] Lesson 112 🎡💻
 113. [ ] Lesson 113
 114. [ ] Lesson 114
 115. [ ] Lesson 115
