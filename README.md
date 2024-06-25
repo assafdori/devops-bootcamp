@@ -139,7 +139,7 @@
 110. [x] Lesson 110 🎡    
 111. [x] Lesson 111 🎡
 112. [x] Lesson 112 🎡💻
-113. [ ] Lesson 113
+113. [x] Lesson 113 🎡💻⭐
 114. [ ] Lesson 114
 115. [ ] Lesson 115
 116. [ ] Lesson 116
