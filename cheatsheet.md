@@ -7,7 +7,7 @@
 [Git 📉](link)  
 [Docker 🐋](link)  
 [K8s 🎡](link)  
-[Jenkins 👨🏽‍🍳](link)  
+[Jenkins 👨](link)  
 [Terraform 🏗️](link)  
 [Ansible 💾](link)  
 [Prometheus 📜](link)  
