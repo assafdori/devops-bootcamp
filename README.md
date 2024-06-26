@@ -140,10 +140,10 @@
 111. [x] Lesson 111 🎡
 112. [x] Lesson 112 🎡💻
 113. [x] Lesson 113 🎡💻⭐
-114. [ ] Lesson 114
-115. [ ] Lesson 115
-116. [ ] Lesson 116
-117. [ ] Lesson 117
+114. [x] Lesson 114 🎡
+115. [x] Lesson 115 🎡
+116. [x] Lesson 116 🎡⭐
+117. [x] Lesson 117
 118. [ ] Lesson 118
 119. [ ] Lesson 119
 120. [ ] Lesson 120
