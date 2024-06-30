@@ -144,8 +144,8 @@
 115. [x] Lesson 115 🎡
 116. [x] Lesson 116 🎡⭐
 117. [x] Lesson 117
-118. [ ] Lesson 118
-119. [ ] Lesson 119
+118. [x] Lesson 118 🎡☁️
+119. [x] Lesson 119 🎡☁️⭐
 120. [ ] Lesson 120
 121. [ ] Lesson 121
 122. [ ] Lesson 122
