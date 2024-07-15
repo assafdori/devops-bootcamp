@@ -166,8 +166,8 @@
 137. [x] Lesson 137 🏗️
 138. [x] Lesson 138 🏗️
 139. [x] Lesson 139 🏗️
-140. [ ] Lesson 140
-141. [ ] Lesson 141
+140. [x] Lesson 140 🏗️
+141. [x] Lesson 141 🏗️
 142. [ ] Lesson 142
 143. [ ] Lesson 143
 144. [ ] Lesson 144
