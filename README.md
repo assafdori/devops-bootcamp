@@ -168,10 +168,10 @@
 139. [x] Lesson 139 🏗️
 140. [x] Lesson 140 🏗️
 141. [x] Lesson 141 🏗️
-142. [ ] Lesson 142
-143. [ ] Lesson 143
-144. [ ] Lesson 144
-145. [ ] Lesson 145
+142. [x] Lesson 142 🏗️
+143. [x] Lesson 143 🏗️
+144. [x] Lesson 144 🏗️⭐
+145. [x] Lesson 145 🏗️⭐
 146. [ ] Lesson 146
 147. [ ] Lesson 147
 148. [ ] Lesson 148
