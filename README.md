@@ -172,10 +172,10 @@
 143. [x] Lesson 143 🏗️
 144. [x] Lesson 144 🏗️⭐
 145. [x] Lesson 145 🏗️⭐
-146. [ ] Lesson 146
-147. [ ] Lesson 147
-148. [ ] Lesson 148
-149. [ ] Lesson 149
+146. [x] Lesson 146 🏗️
+147. [x] Lesson 147 🏗️⭐
+148. [x] Lesson 148 🏗️⭐
+149. [x] Lesson 149 🏗️⭐
 150. [ ] Lesson 150
 151. [ ] Lesson 151
 152. [ ] Lesson 152
