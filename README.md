@@ -15,6 +15,7 @@
 10. [ ] [Cloud Computing ☁️](link)
 11. [x] [Misc 🧰](link)
 12. [x] [Helm 💻](link)
+13. [x] [Python 🐍](link)
 
 
 ### Homework & Practice 📝
