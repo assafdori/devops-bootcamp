@@ -184,11 +184,11 @@
 154. [x] Lesson 154 🏗️
 155. [x] Lesson 155 🐍
 156. [x] Lesson 156 🐍
-157. [ ] Lesson 157
-158. [ ] Lesson 158
-159. [ ] Lesson 159
-160. [ ] Lesson 160
-161. [ ] Lesson 161
+157. [x] Lesson 157 🐍
+158. [x] Lesson 158 🐍
+159. [x] Lesson 159 🐍
+160. [x] Lesson 160 🐍
+161. [x] Lesson 161 🐍
 162. [ ] Lesson 162
 163. [ ] Lesson 163
 164. [ ] Lesson 164
