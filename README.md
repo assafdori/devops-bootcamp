@@ -189,7 +189,7 @@
 159. [x] Lesson 159 🐍
 160. [x] Lesson 160 🐍
 161. [x] Lesson 161 🐍
-162. [ ] Lesson 162
+162. [x] Lesson 162 🐍
 163. [ ] Lesson 163
 164. [ ] Lesson 164
 165. [ ] Lesson 165
