@@ -16,6 +16,7 @@
 11. [x] [Misc 🧰](link)
 12. [x] [Helm 💻](link)
 13. [x] [Python 🐍](link)
+14. [x] [Automation ⚙️](link)
 
 
 ### Homework & Practice 📝
@@ -204,23 +205,23 @@
 174. [ ] Lesson 174 🐍
 175. [ ] Lesson 175 🐍
 176. [ ] Lesson 176 🐍
-177. [x] Lesson 177 ☁️ 
-178. [ ] Lesson 178
-179. [ ] Lesson 179
-180. [ ] Lesson 180
-181. [ ] Lesson 181
-182. [ ] Lesson 182
-183. [ ] Lesson 183
-184. [ ] Lesson 184
-185. [ ] Lesson 185
-186. [ ] Lesson 186
-187. [ ] Lesson 187
-188. [ ] Lesson 188
-189. [ ] Lesson 189
-190. [ ] Lesson 190
-191. [ ] Lesson 191
-192. [ ] Lesson 192
-193. [ ] Lesson 193
+177. [x] Lesson 177 ⚙️ 
+178. [ ] Lesson 178 ⚙️
+179. [ ] Lesson 179 ⚙️ 
+180. [ ] Lesson 180 ⚙️ 
+181. [ ] Lesson 181 ⚙️
+182. [ ] Lesson 182 ⚙️
+183. [ ] Lesson 183 ⚙️
+184. [ ] Lesson 184 ⚙️
+185. [ ] Lesson 185 ⚙️
+186. [ ] Lesson 186 ⚙️
+187. [ ] Lesson 187 ⚙️
+188. [ ] Lesson 188 ⚙️
+189. [ ] Lesson 189 ⚙️
+190. [ ] Lesson 190 ⚙️
+191. [ ] Lesson 191 ⚙️
+192. [ ] Lesson 192 ⚙️
+193. [x] Lesson 193 💾
 194. [ ] Lesson 194
 195. [ ] Lesson 195
 196. [ ] Lesson 196
