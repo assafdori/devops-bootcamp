@@ -190,21 +190,21 @@
 160. [x] Lesson 160 🐍
 161. [x] Lesson 161 🐍
 162. [x] Lesson 162 🐍
-163. [ ] Lesson 163
-164. [ ] Lesson 164
-165. [ ] Lesson 165
-166. [ ] Lesson 166
-167. [ ] Lesson 167
-168. [ ] Lesson 168
-169. [ ] Lesson 169
-170. [ ] Lesson 170
-171. [ ] Lesson 171
-172. [ ] Lesson 172
-173. [ ] Lesson 173
-174. [ ] Lesson 174
-175. [ ] Lesson 175
-176. [ ] Lesson 176
-177. [ ] Lesson 177
+163. [ ] Lesson 163 🐍
+164. [ ] Lesson 164 🐍
+165. [ ] Lesson 165 🐍
+166. [ ] Lesson 166 🐍
+167. [ ] Lesson 167 🐍
+168. [ ] Lesson 168 🐍
+169. [ ] Lesson 169 🐍
+170. [ ] Lesson 170 🐍
+171. [ ] Lesson 171 🐍
+172. [ ] Lesson 172 🐍
+173. [ ] Lesson 173 🐍
+174. [ ] Lesson 174 🐍
+175. [ ] Lesson 175 🐍
+176. [ ] Lesson 176 🐍
+177. [ ] Lesson 177 🐍
 178. [ ] Lesson 178
 179. [ ] Lesson 179
 180. [ ] Lesson 180
