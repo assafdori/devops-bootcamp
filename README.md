@@ -222,7 +222,7 @@
 191. [ ] Lesson 191 ⚙️
 192. [ ] Lesson 192 ⚙️
 193. [x] Lesson 193 💾
-194. [ ] Lesson 194
+194. [x] Lesson 194 💾
 195. [ ] Lesson 195
 196. [ ] Lesson 196
 197. [ ] Lesson 197
