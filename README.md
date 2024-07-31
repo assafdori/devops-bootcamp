@@ -223,11 +223,11 @@
 192. [ ] Lesson 192 ⚙️
 193. [x] Lesson 193 💾
 194. [x] Lesson 194 💾
-195. [ ] Lesson 195
-196. [ ] Lesson 196
-197. [ ] Lesson 197
-198. [ ] Lesson 198
-199. [ ] Lesson 199
+195. [x] Lesson 195 💾 
+196. [x] Lesson 196 💾
+197. [x] Lesson 197 💾
+198. [x] Lesson 198 💾
+199. [x] Lesson 199 💾
 200. [ ] Lesson 200
 201. [ ] Lesson 201
 202. [ ] Lesson 202
