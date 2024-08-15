@@ -228,8 +228,8 @@
 197. [x] Lesson 197 💾
 198. [x] Lesson 198 💾
 199. [x] Lesson 199 💾
-200. [ ] Lesson 200
-201. [ ] Lesson 201
+200. [x] Lesson 200 💾
+201. [x] Lesson 201 💾
 202. [ ] Lesson 202
 203. [ ] Lesson 203
 204. [ ] Lesson 204
