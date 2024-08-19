@@ -230,10 +230,10 @@
 199. [x] Lesson 199 💾
 200. [x] Lesson 200 💾
 201. [x] Lesson 201 💾
-202. [ ] Lesson 202
-203. [ ] Lesson 203
-204. [ ] Lesson 204
-205. [ ] Lesson 205
+202. [x] Lesson 202 💾
+203. [x] Lesson 203 💾
+204. [x] Lesson 204 💾
+205. [x] Lesson 205 💾
 206. [ ] Lesson 206
 207. [ ] Lesson 207
 208. [ ] Lesson 208
