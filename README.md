@@ -247,4 +247,4 @@
 216. [ ] Lesson 216
 217. [ ] Lesson 217
 218. [ ] Lesson 218
-219. [ ] Celebrate 🥂
+219. [ ] **Celebrate 🥂**
